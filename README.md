@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwant-kargwal&label=Profile%20views&color=fd0000&style=flat" alt="yashwant-kargwal" /> </p>
 
-<img align="right" alt="Coding GIF" width="300px" src="Ry6p.gif">
+<img align="right" alt="Coding GIF" width="300px" src="boxes-illu.gif">
 
 <p align="left"> <a href="https://twitter.com/yashwantkargwal" target="blank"><img src="https://img.shields.io/twitter/follow/yashwantkargwal?logo=twitter&style=for-the-badge" alt="yashwantkargwal" /></a> </p>
 
