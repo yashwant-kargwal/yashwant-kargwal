@@ -1,3 +1,7 @@
+<img align="center" alt="Banner Coding GIF" width="" src="Web Developer.gif">
+
+<hr>
+
 <h1 align="center">Hi 👋, I'm Yashwant Kargwal</h1>
 <h3 align="center">Frontend Developer</h3>
 
