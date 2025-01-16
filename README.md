@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashwantkargwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashwantkargwal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashwant-kargwal-384878217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwant-kargwal-384878217" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashwant-kargwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwant-kargwal-384878217" height="30" width="40" /></a>
 <a href="https://instagram.com/yashwant_kargwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashwant_kargwal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Yashwantkargwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yashwant kargwal" height="30" width="40" /></a>
 </p>
