@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [QuickCSS Documentations](https://quickcss-docs.hashnode.space/guide/welcome)
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Java Script** and **Java**
 
 - 💬 Ask me about **Web Development**
 
