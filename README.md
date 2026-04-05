@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashwant Kargwal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Microservices+Architect;React+%7C+NestJS+Expert;Building+Scalable+Systems;Exploring+AI+%26+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Microservices+Architect;React+%7C+NestJS+Expert;Building+Scalable+Systems;Exploring+AI+%26+LLMs" />
 </p>
 <!--<h3 align="center">Full Stack Developer | React & NestJs | Exploring AI & LLM</h3> -->
 
